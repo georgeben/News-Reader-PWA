@@ -1,0 +1,13 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.article a{
+    color: black;
+}
+
+.article img{
+    width: 70%;
+    display: block;
+    margin: auto;
+}

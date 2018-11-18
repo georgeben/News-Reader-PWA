@@ -1,0 +1,10 @@
+{
+    "articles":[
+        {
+            "title":"Failed to fetch articles",
+            "url":"",
+            "urlToImage":"images/icons/icon1.png",
+            "description":"Failed to fetch latest articles, please check your internet connection and try again"
+        }
+    ]
+}
